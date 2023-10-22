@@ -9,7 +9,6 @@ Welcome to the LinkTreeClone app! This is a simple web application hosted on Ver
   - [Installation](#installation)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -62,12 +61,5 @@ Your LinkTreeClone app will now be accessible via the URL provided by Vercel.
 
 ## Contributing
 
-If you'd like to contribute to the development of the LinkTreeClone app, feel free to fork the repository, make your improvements, and submit a pull request. We welcome contributions and improvements from the community.
+If you'd like to contribute to the development of the LinkTreeClone app, feel free to fork the repository, make your improvements, and submit a pull request. I welcome contributions and improvements from the community.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. You are free to use, modify, and distribute this app for personal or commercial purposes.
-
-Enjoy using your LinkTreeClone app and make it your own! If you have any questions or encounter any issues, please don't hesitate to reach out to us at [varshneyankit011@gmail.com](mailto:varshneyankit011@gmail.com).
-
-Thank you for choosing LinkTreeClone!
